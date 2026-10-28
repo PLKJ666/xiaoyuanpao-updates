@@ -1,7 +1,7 @@
 {
-  "versionName": "0.3.0",
-  "versionCode": 7,
-  "apkUrl": "https://github.com/PLKJ666/xiaoyuanpao-updates/releases/download/v0.3.0/app-debug.apk",
-  "sha256": "4e747bd462a8664d7c356a5364fbf39f3433d31e4900153f3d9140bc3904e806",
-  "releaseNotes": "适配 Android 系统用户空间/工作资料分身，保存用户空间入口并按对应用户启动。"
+  "versionName": "0.3.1",
+  "versionCode": 8,
+  "apkUrl": "https://github.com/PLKJ666/xiaoyuanpao-updates/releases/download/v0.3.1/app-debug.apk",
+  "sha256": "9184c13620bcb5e98d0b53f5839a362a30501870c51d5de5c9a92361c06fdcd1",
+  "releaseNotes": "增强红米/小米双开和 Motorola 用户空间识别，并提供系统分身设置入口。"
 }
