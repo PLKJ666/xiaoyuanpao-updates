@@ -1,7 +1,7 @@
 {
-  "versionName": "0.2.3",
-  "versionCode": 5,
-  "apkUrl": "https://github.com/PLKJ666/xiaoyuanpao-updates/releases/download/v0.2.3/app-debug.apk",
-  "sha256": "981df0483d47bdefebfe83edb65a52acf451ef7f37d56ffad98b4d4789b6f775",
-  "releaseNotes": "改进应用内更新反馈，增加下载进度、网络重试和清单镜像。"
+  "versionName": "0.2.4",
+  "versionCode": 6,
+  "apkUrl": "https://github.com/PLKJ666/xiaoyuanpao-updates/releases/download/v0.2.4/app-debug.apk",
+  "sha256": "2af59ec185c84c0bb26d059732ca9e8017e29d58d28e465d51571e4f9f758b82",
+  "releaseNotes": "清理旧版本遗留的非闪动校园应用绑定，只保留目标应用。"
 }
