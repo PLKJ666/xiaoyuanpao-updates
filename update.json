@@ -1,7 +1,8 @@
 {
-  "versionName": "0.3.1",
-  "versionCode": 8,
-  "apkUrl": "https://github.com/PLKJ666/xiaoyuanpao-updates/releases/download/v0.3.1/app-debug.apk",
-  "sha256": "9184c13620bcb5e98d0b53f5839a362a30501870c51d5de5c9a92361c06fdcd1",
-  "releaseNotes": "增强红米/小米双开和 Motorola 用户空间识别，并提供系统分身设置入口。"
+  "versionName": "0.3.2",
+  "versionCode": 9,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/PLKJ666/xiaoyuanpao-updates@main/apk/v0.3.2/app-debug.apk",
+  "fallbackApkUrl": "https://github.com/PLKJ666/xiaoyuanpao-updates/releases/download/v0.3.2/app-debug.apk",
+  "sha256": "1aa3166e650478f39c98f7287863e9cf773081c42e1c7e3cda7415587fee86cc",
+  "releaseNotes": "启动阶段快速逐个拉起所有选中实例；更新优先走镜像并支持备用源。"
 }
