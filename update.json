@@ -1,0 +1,7 @@
+{
+  "versionName": "0.2.0",
+  "versionCode": 2,
+  "apkUrl": "https://github.com/PLKJ666/xiaoyuanpao-updates/releases/download/v0.2.0/app-debug.apk",
+  "sha256": "7bf6c2e807b5ed0e9691fd732ffd7cb6771024bd0f80a33b75ab6f969d741780",
+  "releaseNotes": "新增启动时和手动检查更新，下载后校验 SHA-256 并交给系统安装器确认。"
+}
