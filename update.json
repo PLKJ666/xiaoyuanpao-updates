@@ -1,8 +1,8 @@
 {
-  "versionName": "0.3.2",
-  "versionCode": 9,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/PLKJ666/xiaoyuanpao-updates@main/apk/v0.3.2/app-debug.apk",
-  "fallbackApkUrl": "https://github.com/PLKJ666/xiaoyuanpao-updates/releases/download/v0.3.2/app-debug.apk",
-  "sha256": "1aa3166e650478f39c98f7287863e9cf773081c42e1c7e3cda7415587fee86cc",
-  "releaseNotes": "启动阶段快速逐个拉起所有选中实例；更新优先走镜像并支持备用源。"
+  "versionName": "0.3.3",
+  "versionCode": 10,
+  "apkUrl": "https://testingcf.jsdelivr.net/gh/PLKJ666/xiaoyuanpao-updates@main/apk/v0.3.3/app-debug.apk",
+  "fallbackApkUrl": "https://gcore.jsdelivr.net/gh/PLKJ666/xiaoyuanpao-updates@main/apk/v0.3.3/app-debug.apk",
+  "sha256": "0b11fd57abc46aebfa178f2e550a78770e2ff3a23ecf71bbf4896ec7d7775c52",
+  "releaseNotes": "修复应用内更新镜像缓存问题，更新优先走 testingcf/gcore 国内优化镜像。"
 }
