@@ -1,8 +1,8 @@
 {
-  "versionName": "0.3.4",
-  "versionCode": 11,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/PLKJ666/xiaoyuanpao-updates@main/apk/v0.3.4/app-debug.apk",
-  "fallbackApkUrl": "https://github.com/PLKJ666/xiaoyuanpao-updates/releases/download/v0.3.4/app-debug.apk",
-  "sha256": "5deb5a031e1ffe2e8eccba7d15c3f144219dd3cbe1540f6add63cf0c67c06ad1",
-  "releaseNotes": "修复应用内更新镜像缓存问题，清单使用稳定的国内可访问镜像。"
+  "versionName": "0.3.5",
+  "versionCode": 12,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/PLKJ666/xiaoyuanpao-updates@main/apk/v0.3.5/app-debug.apk",
+  "fallbackApkUrl": "https://fastly.jsdelivr.net/gh/PLKJ666/xiaoyuanpao-updates@main/apk/v0.3.5/app-debug.apk",
+  "sha256": "d075ce9aa5e6417bcddc7b0ab988b7f72e02737888bbe965db2d29b3b8eba245",
+  "releaseNotes": "修复下载完成后系统安装器无法读取 APK 的问题，并增加国内备用下载镜像。"
 }
