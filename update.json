@@ -1,8 +1,8 @@
 {
-  "versionName": "0.3.5",
-  "versionCode": 12,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/PLKJ666/xiaoyuanpao-updates@main/apk/v0.3.5/app-debug.apk",
-  "fallbackApkUrl": "https://fastly.jsdelivr.net/gh/PLKJ666/xiaoyuanpao-updates@main/apk/v0.3.5/app-debug.apk",
-  "sha256": "d075ce9aa5e6417bcddc7b0ab988b7f72e02737888bbe965db2d29b3b8eba245",
-  "releaseNotes": "修复下载完成后系统安装器无法读取 APK 的问题，并增加国内备用下载镜像。"
+  "versionName": "0.3.6",
+  "versionCode": 13,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/PLKJ666/xiaoyuanpao-updates@main/apk/v0.3.6/app-debug.apk",
+  "fallbackApkUrl": "https://fastly.jsdelivr.net/gh/PLKJ666/xiaoyuanpao-updates@main/apk/v0.3.6/app-debug.apk",
+  "sha256": "93d953b84a07f92935eb20727d4c9d032a103a7ffee3db166faa45f20fc756e0",
+  "releaseNotes": "启动层改造：启动后用前台包名确认是否真的拉起，失败时显示具体原因（找不到入口、系统拒绝、没进前台、无障碍未开启）；新增复制诊断信息按钮；修复停止后无法再次启动、新绑定分身被跳过、悬浮窗更新线程问题。"
 }
