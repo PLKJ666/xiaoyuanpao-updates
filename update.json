@@ -1,8 +1,8 @@
 {
-  "versionName": "0.3.7",
-  "versionCode": 14,
-  "apkUrl": "https://github.com/PLKJ666/xiaoyuanpao-updates/releases/download/v0.3.7/xiaoyuanpao-0.3.7.apk",
-  "fallbackApkUrl": "https://raw.githubusercontent.com/PLKJ666/xiaoyuanpao-updates/main/apk/v0.3.7/app-debug.apk",
-  "sha256": "8320ea3740093c2ac7dcb57d3936758e7f9e7e56add5793f7673f16a7652908f",
-  "releaseNotes": "新增权限一键引导；启动结果前台包名确认；失败可复制诊断信息"
+  "versionName": "0.3.8",
+  "versionCode": 15,
+  "apkUrl": "https://gitee.com/plkj666/xiaoyuanpao-updates/releases/download/v0.3.8/xiaoyuanpao-0.3.8.apk",
+  "fallbackApkUrl": "https://github.com/PLKJ666/xiaoyuanpao/releases/download/v0.3.8/xiaoyuanpao-0.3.8.apk",
+  "sha256": "24a95a52324230e1a855568a98e909f259d194db821f58d9e545ed91f3d879d5",
+  "releaseNotes": "修复自动更新：APK 下载改用 Gitee 镜像（国内更快），清单加 Gitee 源；新增权限一键引导"
 }
