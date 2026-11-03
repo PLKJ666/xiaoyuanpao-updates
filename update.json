@@ -1,8 +1,8 @@
 {
   "versionName": "0.3.7",
   "versionCode": 14,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/PLKJ666/xiaoyuanpao-updates@main/apk/v0.3.7/app-debug.apk",
-  "fallbackApkUrl": "https://fastly.jsdelivr.net/gh/PLKJ666/xiaoyuanpao-updates@main/apk/v0.3.7/app-debug.apk",
+  "apkUrl": "https://github.com/PLKJ666/xiaoyuanpao-updates/releases/download/v0.3.7/xiaoyuanpao-0.3.7.apk",
+  "fallbackApkUrl": "https://raw.githubusercontent.com/PLKJ666/xiaoyuanpao-updates/main/apk/v0.3.7/app-debug.apk",
   "sha256": "8320ea3740093c2ac7dcb57d3936758e7f9e7e56add5793f7673f16a7652908f",
-  "releaseNotes": "新增权限一键引导：显示通知、后台运行、悬浮窗、无障碍状态并依次引导开启；无障碍未连接时拒绝启动并提示；启动结果以前台包名确认，失败可复制诊断信息。"
+  "releaseNotes": "新增权限一键引导；启动结果前台包名确认；失败可复制诊断信息"
 }
