@@ -1,8 +1,8 @@
 {
-  "versionName": "0.3.8",
-  "versionCode": 15,
-  "apkUrl": "https://gitee.com/plkj666/xiaoyuanpao-updates/releases/download/v0.3.8/xiaoyuanpao-0.3.8.apk",
-  "fallbackApkUrl": "https://github.com/PLKJ666/xiaoyuanpao/releases/download/v0.3.8/xiaoyuanpao-0.3.8.apk",
-  "sha256": "24a95a52324230e1a855568a98e909f259d194db821f58d9e545ed91f3d879d5",
-  "releaseNotes": "修复自动更新：APK 下载改用 Gitee 镜像（国内更快），清单加 Gitee 源；新增权限一键引导"
+  "versionName": "0.4.0",
+  "versionCode": 16,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/PLKJ666/xiaoyuanpao-updates@main/apk/v0.4.0/app-debug.apk",
+  "fallbackApkUrl": "https://raw.githubusercontent.com/PLKJ666/xiaoyuanpao-updates/main/apk/v0.4.0/app-debug.apk",
+  "sha256": "048c8dab4719e82d7f6a62959ca2a248435d2e5d9f5ab242f0e484a4600c5386",
+  "releaseNotes": "修复分身启动与自动更新：小米双开选择框自动处理；更新检查改为取各源最高版本；下载地址改用仓库路径并同步 Gitee"
 }
