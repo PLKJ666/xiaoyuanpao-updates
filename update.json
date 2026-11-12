@@ -1,8 +1,8 @@
 {
-  "versionName": "0.4.0",
-  "versionCode": 16,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/PLKJ666/xiaoyuanpao-updates@main/apk/v0.4.0/app-debug.apk",
-  "fallbackApkUrl": "https://raw.githubusercontent.com/PLKJ666/xiaoyuanpao-updates/main/apk/v0.4.0/app-debug.apk",
+  "versionName": "0.4.1",
+  "versionCode": 17,
+  "apkUrl": "https://cdn.jsdelivr.net/gh/PLKJ666/xiaoyuanpao-updates@main/apk/v0.4.1/app-debug.apk",
+  "fallbackApkUrl": "https://raw.githubusercontent.com/PLKJ666/xiaoyuanpao-updates/main/apk/v0.4.1/app-debug.apk",
   "sha256": "048c8dab4719e82d7f6a62959ca2a248435d2e5d9f5ab242f0e484a4600c5386",
-  "releaseNotes": "修复分身启动与自动更新：小米双开选择框自动处理；更新检查改为取各源最高版本；下载地址改用仓库路径并同步 Gitee"
+  "releaseNotes": "Test update download candidates"
 }
