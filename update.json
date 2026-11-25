@@ -1,9 +1,9 @@
 {
   "channel": "production",
-  "versionName": "0.4.2",
-  "versionCode": 18,
-  "apkUrl": "https://gitee.com/plkj666/xiaoyuanpao-updates/raw/main/apk/v0.4.2/app-release.apk",
-  "fallbackApkUrl": "https://cdn.jsdelivr.net/gh/PLKJ666/xiaoyuanpao-updates@main/apk/v0.4.2/app-release.apk",
-  "sha256": "bdf40d29efb3984816a5bbee5c552ab31a75f990e2fe57f58f4fb6d684f3784a",
-  "releaseNotes": "自动检查正式更新，在符合条件的 Wi-Fi 下自动下载并校验签名。"
+  "versionName": "0.4.3",
+  "versionCode": 19,
+  "apkUrl": "https://gitee.com/plkj666/xiaoyuanpao-updates/raw/main/apk/v0.4.3/app-release.apk",
+  "fallbackApkUrl": "https://cdn.jsdelivr.net/gh/PLKJ666/xiaoyuanpao-updates@main/apk/v0.4.3/app-release.apk",
+  "sha256": "823aa5afbd8a49af96742965434fbef380a5eb423e13e2f9a8468de41a259066",
+  "releaseNotes": "改善更新中断后的重试、已下载更新包的恢复和安装前校验。"
 }
